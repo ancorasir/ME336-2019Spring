@@ -1,0 +1,7 @@
+#use traditional vision-based methods to complete the jigsaw puzzle game
+#Hardware: UR10e + Robotiq Hand-E + realsense D435
+#for segment, this project needs a background data "background2.npy"
+#for recognition, this project needs some templates in the floder"template"
+
+
+#run the /traditionalMethod/classifyMethod/grasp_tradition_0505.py to execute the project
